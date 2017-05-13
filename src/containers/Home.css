@@ -1,0 +1,90 @@
+.Home .lander {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.Home .lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+.Home .lander p {
+    color: #999;
+}
+
+.Home .devs h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    overflow: hidden;
+    line-height: 1.5;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.Home .devs p {
+    color: #666;
+}
+
+.Home .lander div {
+    padding-top: 20px;
+}
+
+.Home .lander div a:first-child {
+    margin-right: 20px;
+}
+
+.Home .bioText {
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.Home .devPicture img {
+    display: inline;
+    width:100%;
+}
+
+.Home .devPicture:hover img {
+    border: 1px solid #fff;
+}
+
+.Home .devPicture:hover {
+    background-color: #ddd;
+    box-shadow: .1rem .1rem .1rem #c6c6c6;
+}
+
+.Home .devPicture {
+    background-color: #e7e7e7;
+    cursor: pointer;
+}
+
+.Home .btn-default:link, .btn-default:visited, .btn-default:active {
+    background-color: #fff;
+    color: inherit;
+    text-decoration: inherit;
+    font-weight: inherit;
+}
+
+.Home .btn-default:hover {
+    border: .1rem solid #c6c6c6;
+    font-size: 1.5rem;
+    background-color: #fff;
+    opacity: .85;
+}
+
+.Home .center {
+    text-align: center;
+}
+
+.Home .pullRight {
+    text-align: right;
+}
+
+.Home .newDev {
+    opacity: .6;
+    border: 1px solid gold;
+}
+
+.Home .newDev:hover {
+    opacity: 1;
+    border: 1px solid gold;
+}

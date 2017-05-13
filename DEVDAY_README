@@ -1,0 +1,31 @@
+### RECURSIVE THINKING - SEATTLE DEV DAY ###
+
+*** How do I run the app? ***
+- npm run start
+
+*** None of the API Calls are working, it seems broke ***
+- your missing a config file in ./src/config.js , create the
+  file and copy the JSON available through the Recursive Thinking
+  DevDayWebsite Channel.
+
+*** How do I submit a pull request ***
+- Google it.  :0 Github also has a GUI.  don't tell me if you use it.
+
+*** What should I do before I submit a pull request ***
+- Unless your pull request is to add unit tests... we don't have tests atm so you
+  should probably test that $#@$
+
+*** But what if I don't understand Austin's sloppy code ***
+- Let's see what you can do in 8 hours.  I'll be happy to accept it if its better.
+  My aim was to get the piping working ASAP.
+
+*** What needs work? ***
+  - unit tests
+  - icons for things like social buttons and such.
+  - css fixes
+  - features? How about a chat page? A news page hooked up to an S3 bucket where we can
+    leave news posts about dev day events.
+  - anything your heart desires.  if it sux then I just wont accept the pull request.
+
+
+
