@@ -30,7 +30,7 @@ export function getUserId(userToken) {
     };
     var userPool = new AWS.CognitoIdentityServiceProvider.CognitoUserPool(data);
     var cognitoUser = userPool.getCurrentUser();
-    return cognitoUser;
+    return cognitoUser
 
 
 }
