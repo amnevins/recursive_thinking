@@ -9,8 +9,9 @@
   DevDayWebsite Channel.
 - your also missing a critical step, gotta set up the AWS CLI yo.  Heres a link
   http://serverless-stack.com/chapters/configure-the-aws-cli.html
-  FOR THE ACCESS KEY AND SECRET ACCCES KEY SEE THE DEVDAYWEBSITE SLACK CHANNEL
-   I PROVISIONED A USER FOR THIS IN MY ACCOUNT
+  ### After installing Python or PIP and installing AWS CLI Restart your terminal ###
+  FOR THE ACCESS KEY AND SECRET ACCCES KEY SEE THE #DEVDAYWEBSITE SLACK CHANNEL
+   I PROVISIONED A USER FOR THIS IN MY ACCOUNT AND PUT TOKENS THERE
 
 *** How do I submit a pull request ***
 - Google it.  :0 Github also has a GUI.  don't tell me if you use it.
@@ -28,7 +29,8 @@
   - icons for things like social buttons and such.
   - css fixes
   - features? How about a chat page? A news page hooked up to an S3 bucket where we can
-    leave news posts about dev day events.
+    leave news posts about dev day events.  YOu may need access to the backend code
+    depending on your feature, ask me and I will post that to git with instructions
   - anything your heart desires.  if it sux then I just wont accept the pull request.
 
 
