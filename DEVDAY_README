@@ -7,6 +7,10 @@
 - your missing a config file in ./src/config.js , create the
   file and copy the JSON available through the Recursive Thinking
   DevDayWebsite Channel.
+- your also missing a critical step, gotta set up the AWS CLI yo.  Heres a link
+  http://serverless-stack.com/chapters/configure-the-aws-cli.html
+  FOR THE ACCESS KEY AND SECRET ACCCES KEY SEE THE DEVDAYWEBSITE SLACK CHANNEL
+   I PROVISIONED A USER FOR THIS IN MY ACCOUNT
 
 *** How do I submit a pull request ***
 - Google it.  :0 Github also has a GUI.  don't tell me if you use it.
